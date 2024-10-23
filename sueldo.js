@@ -1,7 +1,7 @@
-let nombre="Bartolo"
-let apellido="Cruz"
-let sueldoActual=5000
-let porcetajeAumento=50
+let nombre="Bartolo";
+let apellido="Cruz";
+let sueldoActual=5000;
+let porcetajeAumento=50;
 
 let calculoAumento=(sueldoActual*porcetajeAumento/100)
 console.log(calculoAumento);
